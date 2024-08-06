@@ -1,0 +1,8 @@
+.game-screen {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-width: 1200px;
+}
